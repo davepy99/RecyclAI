@@ -1,0 +1,2 @@
+# RecyclAI
+Garbage Classification
